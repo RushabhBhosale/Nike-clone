@@ -271,6 +271,9 @@ input {
     padding: 5px 20px;
 }
 
-.dfghj {
-    height: 589px;
+@media (max-width: 400px) {
+    .dan {
+        bottom: 30px;
+        left: 30px;
+    }
 }
