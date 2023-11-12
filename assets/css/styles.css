@@ -156,14 +156,14 @@ input {
 }
 
 .feature-1 {
-    background-image: url('../images/174de3ec-30e4-48b4-945a-ce53ebec1bfc.webp');
+    background-image: url('../images/home/174de3ec-30e4-48b4-945a-ce53ebec1bfc.webp');
     height: 700px;
     background-position: center;
     background-size: cover;
 }
 
 .feature-2 {
-    background-image: url('../images/nike-just-do-it.jpg');
+    background-image: url('../images/home/nike-just-do-it.jpg');
     height: 700px;
     background-position: center;
     background-size: cover;
@@ -280,7 +280,7 @@ hr {
 }
 
 .men {
-    background-image: url('../images/5e9d47e4-d0af-4cfe-a40a-31729d9d2ce4.webp');
+    background-image: url('../images/home/5e9d47e4-d0af-4cfe-a40a-31729d9d2ce4.webp');
     height: 540px;
     background-size: cover;
     background-position: center;
@@ -288,7 +288,7 @@ hr {
 }
 
 .women {
-    background-image: url('../images/963a54ad-6b91-4efe-8927-217656eb5240.webp');
+    background-image: url('../images/home/963a54ad-6b91-4efe-8927-217656eb5240.webp');
     height: 540px;
     background-size: cover;
     background-position: center;
@@ -296,7 +296,7 @@ hr {
 }
 
 .kids {
-    background-image: url('../images/e11e868d-e199-40fa-828c-a4e19c9b6943.webp');
+    background-image: url('../images/home/e11e868d-e199-40fa-828c-a4e19c9b6943.webp');
     height: 540px;
     background-size: cover;
     background-position: center;
