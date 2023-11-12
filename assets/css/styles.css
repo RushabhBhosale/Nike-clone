@@ -54,6 +54,7 @@ input {
 .top-text {
     width: 200%;
     animation: go 8s ease-in-out infinite;
+    z-index: -1;
 }
 
 .boom {
@@ -117,8 +118,15 @@ input {
     width: 30%;
 }
 
+.bhau .div {
+    width: 30%;
+}
+
 @media (max-width: 756px) {
     .bhau img {
+        width: 80%;
+    }
+    .bhau .div {
         width: 80%;
     }
 }
