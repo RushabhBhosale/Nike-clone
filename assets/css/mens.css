@@ -10,9 +10,12 @@
     z-index: -2;
 }
 
+.gore {
+    overflow: auto;
+}
+
 .verse {
     gap: 10px;
-    overflow: auto;
 }
 
 
@@ -54,3 +57,8 @@
     height: 600px;
     object-fit: cover;
 }
+
+.boog {
+    gap: 12px;
+}
+
