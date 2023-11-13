@@ -6,6 +6,10 @@
     z-index: 10;
 }
 
+.sale {
+    z-index: -2;
+}
+
 .verse {
     gap: 10px;
     overflow: auto;
