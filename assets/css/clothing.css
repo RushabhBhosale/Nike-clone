@@ -127,5 +127,8 @@ input[type="checkbox"] {
 .related {
     overflow-x: scroll;
 } 
-
+ 
+.pong a {
+    text-decoration: none;
+}
 
