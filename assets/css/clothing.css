@@ -1,3 +1,8 @@
+
+body {
+    overflow-x: hidden;
+}
+
 .header {
     z-index: 100;
     background-color: rgb(255, 255, 255);
@@ -124,11 +129,23 @@ input[type="checkbox"] {
     height: 400px;
 }
 
+@media (max-width: 500px) {
+    .relate {
+        height: 280px;
+    }
+}
+
 .related {
     overflow-x: scroll;
 } 
  
 .pong a {
     text-decoration: none;
+}
+
+.zoro {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 9px;
 }
 
