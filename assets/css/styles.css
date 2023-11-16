@@ -12,6 +12,11 @@ body {
 
 a {
     color: black;
+    text-decoration: none;
+}
+
+.small a {
+    text-decoration: underline;
 }
 
 .mt-8 {

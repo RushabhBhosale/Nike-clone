@@ -119,6 +119,10 @@
 
 @media (max-width: 767px) {
     .text {
-        padding: 4px 16px 0 16px; /* Adjusted padding for mobile screens */
+        padding: 4px 16px 0 16px; 
     }
+}
+
+.product-details a {
+    text-decoration: none !important;
 }
