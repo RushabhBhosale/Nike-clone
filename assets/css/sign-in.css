@@ -1,0 +1,52 @@
+.nike {
+    transform: scale(1.9);
+}
+
+.jordon {
+    transform: scale(1.4);
+}
+
+.fdt {
+    text-decoration: underline;
+}
+
+input {
+    border: none;
+    background-color: transparent;
+    outline: none;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form {
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.title {
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+.boya {
+    padding: 10px 30px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.sign {
+    position: relative;
+    height: 400px;
+}
+
+.signo {
+    position: relative;
+    height: 500px; 
+}
+
+@media (max-width: 450px) {
+    .boya {
+        right: 40px;
+    }
+}
