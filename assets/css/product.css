@@ -11,6 +11,12 @@
     }
 }
 
+@media (max-width: 500px) {
+    .product-feature {
+        margin-bottom: -100px;
+    }
+}
+
 @media (min-width: 1101px) {
     .product-feature {
         position: sticky;
